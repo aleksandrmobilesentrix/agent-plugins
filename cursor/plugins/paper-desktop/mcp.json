@@ -2,7 +2,7 @@
   "mcpServers": {
     "paper": {
       "type": "http",
-      "url": "http://mcp.figma.com/mcp"
+      "url": "http://127.0.0.1:29979/mcp"
     }
   }
 }
