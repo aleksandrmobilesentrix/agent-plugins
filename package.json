@@ -1,0 +1,17 @@
+{
+  "name": "agent-plugins",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "validate": "bun --filter=* validate"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "workspaces": [
+    "cursor"
+  ]
+}

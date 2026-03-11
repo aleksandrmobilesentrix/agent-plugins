@@ -1,11 +1,10 @@
-# Cursor plugin template
+# Agent plugins
 
-Build and publish Cursor Marketplace plugins from a single repo.
+## Cursor
 
-Two starter plugins are included:
-
-- **starter-simple**: rules and skills only
-- **starter-advanced**: rules, skills, agents, commands, hooks, MCP, and scripts
+```sh
+/add-plugin paper
+```
 
 ## Getting started
 

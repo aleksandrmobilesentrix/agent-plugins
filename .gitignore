@@ -2,6 +2,7 @@
 .env
 .env.*
 !.env.example
+node_modules
 
 # OS and editor
 .DS_Store
