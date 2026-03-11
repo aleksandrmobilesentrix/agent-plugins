@@ -9,5 +9,5 @@
   },
   "license": "MIT",
   "keywords": ["cursor", "plugin", "mcp"],
-  "logo": "assets/logo.svg"
+  "logo": "./assets/logo.svg"
 }

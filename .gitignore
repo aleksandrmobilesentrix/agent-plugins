@@ -3,6 +3,7 @@
 .env.*
 !.env.example
 node_modules
+.claude
 
 # OS and editor
 .DS_Store
