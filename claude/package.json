@@ -3,7 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "mcpb pack"
+    "build": "cd extensions/paper-desktop && mcpb pack"
   },
   "devDependencies": {
     "@anthropic-ai/mcpb": "2.1.2"

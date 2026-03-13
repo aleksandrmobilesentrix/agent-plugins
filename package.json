@@ -13,6 +13,6 @@
   },
   "workspaces": [
     "cursor",
-    "claude-desktop"
+    "claude"
   ]
 }

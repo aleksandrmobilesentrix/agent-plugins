@@ -11,7 +11,7 @@
         "typescript": "^5",
       },
     },
-    "claude-desktop": {
+    "claude": {
       "name": "@paper/claude-desktop-extension",
       "devDependencies": {
         "@anthropic-ai/mcpb": "2.1.2",
@@ -52,7 +52,7 @@
 
     "@inquirer/type": ["@inquirer/type@2.0.0", "", { "dependencies": { "mute-stream": "^1.0.0" } }, "sha512-XvJRx+2KR3YXyYtPUUy+qd9i7p+GO9Ko6VIIpWlBrpWwXDv8WLFeHTxz35CfQFUiBMLXlGHhGzys7lqit9gWag=="],
 
-    "@paper/claude-desktop-extension": ["@paper/claude-desktop-extension@workspace:claude-desktop"],
+    "@paper/claude-desktop-extension": ["@paper/claude-desktop-extension@workspace:claude"],
 
     "@paper/cursor-plugin": ["@paper/cursor-plugin@workspace:cursor"],
 
