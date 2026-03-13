@@ -7,7 +7,7 @@
   "author": {
     "name": "Paper"
   },
-  "icon": "./assets/logo@128w.png",
+  "icon": "./assets/logo@512w.png",
   "homepage": "https://paper.design",
   "documentation": "https://paper.design/docs/mcp",
   "server": {
