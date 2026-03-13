@@ -3,8 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "pack": "bun run --filter=* pack",
-    "validate": "bun run --filter=* validate"
+    "build": "bun run --filter=* build"
   },
   "devDependencies": {
     "@types/bun": "latest"
