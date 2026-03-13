@@ -35,6 +35,6 @@
     "type": "git",
     "url": "https://github.com/paper-design/agent-plugins.git"
   },
-  "privacy_policies": ["https://paper.design/privacy-policy"],
+  "privacy_policies": ["https://paper.design/privacy"],
   "keywords": ["paper", "design", "collaboration"]
 }

@@ -40,6 +40,8 @@ Install from the Anthropic Directory in Claude Desktop Settings → Extensions.
 
 ## Privacy Policy
 
+See: https://paper.design/privacy
+
 ## Support
 
 For issues or questions: team@paper.design
