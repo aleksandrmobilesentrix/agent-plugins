@@ -17,6 +17,13 @@
       "args": ["mcp-remote", "http://127.0.0.1:29979/mcp"]
     }
   },
+  "tools": [
+    {
+      "name": "get_basic_info",
+      "description": "Get essential context about the current design: file name, page name, node count, list of artboards with their dimensions, and a list of font families used in the document. Call this first to understand the canvas situation."
+    }
+  ],
+  "tools_generated": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/paper-design/agent-plugins.git"
