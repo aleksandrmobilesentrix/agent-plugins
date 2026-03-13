@@ -25,6 +25,11 @@
       "description": "Get essential context about the current design: file name, page name, node count, list of artboards with their dimensions, and a list of font families used in the document. Call this first to understand the canvas situation."
     }
   ],
+  "screenshots": [
+    "./assets/barley-layout.png",
+    "./assets/barley-feedback.png",
+    "./assets/barley-responsive-frames.png"
+  ],
   "tools_generated": true,
   "repository": {
     "type": "git",
