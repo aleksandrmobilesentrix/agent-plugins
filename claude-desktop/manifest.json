@@ -2,7 +2,8 @@
   "manifest_version": "0.3",
   "name": "paper",
   "version": "0.1.9",
-  "description": "Paper connects your teams, agents, code, and data on a single design space built on web standards, so nothing gets lost in translation.",
+  "description": "The connected canvas for teams shipping with agents.",
+  "long_description": "Paper connects your teams, agents, code, and data on a single design space built on web standards, so nothing gets lost in translation.",
   "author": {
     "name": "Paper"
   },
@@ -20,13 +21,18 @@
   "tools": [
     {
       "name": "get_basic_info",
-      "description": "Get essential context about the current design: file name, page name, node count, list of artboards with their dimensions, and a list of font families used in the document. Call this first to understand the canvas situation."
+      "description": "Get essential context about the current design: file name, page name, node count, list of artboards with their dimensions, and a list of font families used in the document. Call this first to understand the canvas situation.",
+      "annotations": { "readOnlyHint": true }
     }
   ],
+  "compatibility": {
+    "paper": ">=0.1.9"
+  },
   "tools_generated": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/paper-design/agent-plugins.git"
   },
+  "privacy_policies": ["https://paper.design/privacy-policy"],
   "keywords": ["paper", "design", "collaboration"]
 }
