@@ -14,11 +14,29 @@ Install from the Anthropic Directory in Claude Desktop Settings → Extensions.
 
 ## Examples
 
-### Example 1:
+### Example 1: Create a
+
+**User prompt:** ""
+
+**Expected behavior:**
+
+-
 
 ### Example 2:
 
+**User prompt:** ""
+
+**Expected behavior:**
+
+-
+
 ### Example 3:
+
+**User prompt:** ""
+
+**Expected behavior:**
+
+-
 
 ## Privacy Policy
 
