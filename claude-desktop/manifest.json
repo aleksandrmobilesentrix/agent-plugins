@@ -1,6 +1,7 @@
 {
   "manifest_version": "0.3",
-  "name": "paper",
+  "name": "paper-desktop",
+  "display_name": "Paper Desktop",
   "version": "0.1.9",
   "description": "The connected canvas for teams shipping with agents.",
   "long_description": "Paper connects your teams, agents, code, and data on a single design space built on web standards, so nothing gets lost in translation.",
@@ -21,13 +22,9 @@
   "tools": [
     {
       "name": "get_basic_info",
-      "description": "Get essential context about the current design: file name, page name, node count, list of artboards with their dimensions, and a list of font families used in the document. Call this first to understand the canvas situation.",
-      "annotations": { "readOnlyHint": true }
+      "description": "Get essential context about the current design: file name, page name, node count, list of artboards with their dimensions, and a list of font families used in the document. Call this first to understand the canvas situation."
     }
   ],
-  "compatibility": {
-    "paper": ">=0.1.9"
-  },
   "tools_generated": true,
   "repository": {
     "type": "git",
