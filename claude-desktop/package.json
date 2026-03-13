@@ -1,0 +1,11 @@
+{
+  "name": "@paper/claude-plugin",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "pack": "mcpb pack"
+  },
+  "devDependencies": {
+    "@anthropic-ai/mcpb": "2.1.2"
+  }
+}

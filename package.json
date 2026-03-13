@@ -3,7 +3,8 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "validate": "bun --filter=* validate"
+    "pack": "bun run --filter=* pack",
+    "validate": "bun run --filter=* validate"
   },
   "devDependencies": {
     "@types/bun": "latest"
@@ -12,6 +13,7 @@
     "typescript": "^5"
   },
   "workspaces": [
-    "cursor"
+    "cursor",
+    "claude-desktop"
   ]
 }
