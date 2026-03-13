@@ -1,5 +1,5 @@
 {
-  "name": "@paper/claude-desktop-extension",
+  "name": "@paper/claude-extensions-paper-desktop",
   "type": "module",
   "private": true,
   "scripts": {

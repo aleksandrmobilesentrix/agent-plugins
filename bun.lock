@@ -12,13 +12,13 @@
       },
     },
     "claude": {
-      "name": "@paper/claude-desktop-extension",
+      "name": "@paper/claude-extensions-paper-desktop",
       "devDependencies": {
         "@anthropic-ai/mcpb": "2.1.2",
       },
     },
     "cursor": {
-      "name": "@paper/cursor-plugin",
+      "name": "@paper/cursor-plugins",
     },
   },
   "packages": {
@@ -52,9 +52,9 @@
 
     "@inquirer/type": ["@inquirer/type@2.0.0", "", { "dependencies": { "mute-stream": "^1.0.0" } }, "sha512-XvJRx+2KR3YXyYtPUUy+qd9i7p+GO9Ko6VIIpWlBrpWwXDv8WLFeHTxz35CfQFUiBMLXlGHhGzys7lqit9gWag=="],
 
-    "@paper/claude-desktop-extension": ["@paper/claude-desktop-extension@workspace:claude"],
+    "@paper/claude-extensions-paper-desktop": ["@paper/claude-extensions-paper-desktop@workspace:claude"],
 
-    "@paper/cursor-plugin": ["@paper/cursor-plugin@workspace:cursor"],
+    "@paper/cursor-plugins": ["@paper/cursor-plugins@workspace:cursor"],
 
     "@types/bun": ["@types/bun@1.3.10", "", { "dependencies": { "bun-types": "1.3.10" } }, "sha512-0+rlrUrOrTSskibryHbvQkDOWRJwJZqZlxrUs1u4oOoTln8+WIXBPmAuCF35SWB2z4Zl3E84Nl/D0P7803nigQ=="],
 

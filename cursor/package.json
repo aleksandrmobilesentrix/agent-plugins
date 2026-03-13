@@ -1,5 +1,5 @@
 {
-  "name": "@paper/cursor-plugin",
+  "name": "@paper/cursor-plugins",
   "type": "module",
   "private": true,
   "scripts": {
