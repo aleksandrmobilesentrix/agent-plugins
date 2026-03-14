@@ -2,7 +2,7 @@
   "manifest_version": "0.3",
   "name": "paper-desktop",
   "display_name": "Paper Desktop",
-  "version": "0.1.9",
+  "version": "0.1.0",
   "description": "Design on a canvas that Claude can read and write to — built on web standards.",
   "long_description": "Paper is a professional design tool built on HTML and CSS. With this extension, Claude can read your designs — structure, styles, screenshots, and text — and write back to the canvas in real time. Use it to turn designs into code, generate UI from your codebase, pull in real content from connected data sources, and keep your designs in sync with the tools your team already uses.",
   "author": {
