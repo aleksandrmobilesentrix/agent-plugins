@@ -1,8 +1,8 @@
 {
-  "name": "@paper/cursor-plugin",
+  "name": "@paper/cursor-plugins",
   "type": "module",
   "private": true,
   "scripts": {
-    "validate": "bun ./scripts/validate-template.mjs"
+    "build": "bun ./scripts/validate-template.mjs"
   }
 }

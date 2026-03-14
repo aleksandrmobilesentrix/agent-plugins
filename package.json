@@ -3,7 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "validate": "bun --filter=* validate"
+    "build": "bun run --filter=* build"
   },
   "devDependencies": {
     "@types/bun": "latest"
@@ -12,6 +12,7 @@
     "typescript": "^5"
   },
   "workspaces": [
-    "cursor"
+    "cursor",
+    "claude"
   ]
 }
