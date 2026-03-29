@@ -2,7 +2,7 @@
   "name": "paper-desktop",
   "displayName": "Paper",
   "version": "0.1.0",
-  "description": "Connect to Paper Desktop using its MCP server.",
+  "description": "Design on a canvas that Cursor can read and write to — built on web standards.",
   "author": {
     "name": "Paper",
     "email": "team@paper.design"
