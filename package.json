@@ -3,7 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "bun ./scripts/validate-cursor-schema.mjs && bun ./scripts/validate-cursor-structure.mjs && cd plugins/paper-desktop && mcpb pack"
+    "build": "bun ./scripts/validate-cursor-schema.mjs && bun ./scripts/validate-cursor-structure.mjs && bun ./scripts/validate-codex.mjs && cd plugins/paper-desktop && mcpb pack"
   },
   "devDependencies": {
     "@anthropic-ai/mcpb": "2.1.2",
