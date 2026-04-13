@@ -37,19 +37,10 @@
     "brandColor": "#81ADEC",
     "composerIcon": "./assets/logo.svg",
     "logo": "./assets/logo.svg",
-    "prompts": [
-      {
-        "title": "Design from codebase",
-        "prompt": "Use the CSS styles from my repo and design a settings page in Paper"
-      },
-      {
-        "title": "Design to code",
-        "prompt": "Implement my design from Paper in my codebase, using my code conventions"
-      },
-      {
-        "title": "Sync tokens from Figma",
-        "prompt": "Grab my tokens from Figma and create a design system on the canvas in Paper"
-      }
+    "defaultPrompt": [
+      "Use the CSS styles from my repo and design a settings page in Paper",
+      "Implement my design from Paper in my codebase, using my code conventions",
+      "Grab my tokens from Figma and create a design system on the canvas in Paper"
     ],
     "screenshots": [
       "./assets/barley-layout.png",
