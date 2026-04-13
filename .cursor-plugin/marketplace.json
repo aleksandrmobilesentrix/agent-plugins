@@ -6,21 +6,12 @@
   },
   "metadata": {
     "description": "Paper connects your teams, agents, code, and data on a single design space built on web standards.",
-    "version": "0.1.0",
-    "pluginRoot": "plugins"
+    "version": "0.1.0"
   },
   "plugins": [
     {
       "name": "paper-desktop",
-      "source": {
-        "source": "local",
-        "path": "./plugins/paper-desktop"
-      },
-      "policy": {
-        "installation": "AVAILABLE",
-        "authentication": "ON_INSTALL"
-      },
-      "category": "Design",
+      "source": "./plugins/paper-desktop",
       "description": "Connect to Paper Desktop using its MCP server."
     }
   ]
