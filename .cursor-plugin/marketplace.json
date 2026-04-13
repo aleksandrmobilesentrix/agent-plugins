@@ -6,8 +6,7 @@
   },
   "metadata": {
     "description": "Paper connects your teams, agents, code, and data on a single design space built on web standards.",
-    "version": "0.1.0",
-    "pluginRoot": "plugins"
+    "version": "0.1.0"
   },
   "plugins": [
     {
