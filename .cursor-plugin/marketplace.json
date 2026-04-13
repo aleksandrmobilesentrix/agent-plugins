@@ -12,7 +12,7 @@
   "plugins": [
     {
       "name": "paper-desktop",
-      "source": "./paper-desktop",
+      "source": "./plugins/paper-desktop",
       "description": "Connect to Paper Desktop using its MCP server."
     }
   ]
