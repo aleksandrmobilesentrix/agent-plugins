@@ -6,11 +6,8 @@ Missing one? [Request it in an issue](https://github.com/paper-design/agent-plug
 ## Cursor
 
 ```sh
-/add-plugin paper
+/add-plugin paper-desktop
 ```
 
-[Read more about installing Cursor plugins](https://cursor.com/docs/plugins#installing-plugins).
-
-### MCP server only
-
-[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en-US/install-mcp?name=paper&config=eyJ0eXBlIjoiaHR0cCIsInVybCI6Imh0dHA6Ly8xMjcuMC4wLjE6Mjk5NzkvbWNwIn0%3D)
+- [View on Cursor Marketplace](https://cursor.com/marketplace/paper)
+- [Read more about installing Cursor plugins](https://cursor.com/docs/plugins#installing-plugins)
