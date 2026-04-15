@@ -3,10 +3,9 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "bun ./scripts/validate-cursor-schema.mjs && bun ./scripts/validate-cursor-structure.mjs && bun ./scripts/validate-codex.mjs && cd plugins/paper-desktop && mcpb pack"
+    "build": "bun ./scripts/validate-cursor-schema.mjs && bun ./scripts/validate-cursor-structure.mjs && bun ./scripts/validate-codex.mjs"
   },
   "devDependencies": {
-    "@anthropic-ai/mcpb": "2.1.2",
     "@types/bun": "latest",
     "ajv": "^8.18.0",
     "ajv-formats": "^3.0.1"
