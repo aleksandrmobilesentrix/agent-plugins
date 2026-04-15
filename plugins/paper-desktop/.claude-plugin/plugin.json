@@ -1,0 +1,27 @@
+{
+  "name": "paper-desktop",
+  "displayName": "Paper Desktop",
+  "version": "0.1.0",
+  "description": "Design on a canvas that Claude can read and write to — built on web standards.",
+  "author": {
+    "name": "Paper",
+    "email": "team@paper.design"
+  },
+  "homepage": "https://paper.design",
+  "repository": "https://github.com/paper-design/agent-plugins",
+  "license": "MIT",
+  "keywords": [
+    "paper",
+    "design",
+    "ui",
+    "canvas",
+    "html",
+    "css",
+    "design-to-code",
+    "code-to-design",
+    "mcp",
+    "design-system"
+  ],
+  "skills": "./skills",
+  "mcpServers": "./mcp.json"
+}
