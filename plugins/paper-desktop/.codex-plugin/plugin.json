@@ -24,7 +24,7 @@
     "design-system"
   ],
   "skills": "./skills/",
-  "mcpServers": "./mcp.json",
+  "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "Paper Desktop",
     "shortDescription": "Design on a canvas that Codex can read and write to.",

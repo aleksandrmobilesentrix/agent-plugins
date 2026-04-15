@@ -350,8 +350,9 @@ async function main() {
     }
 
     const mcpPath = path.join(pluginDir, "mcp.json");
-    if (!(await pathExists(mcpPath))) {
-      addWarning(`${entry.name}: no mcp.json file found (only needed when using MCP servers).`);
+    const dotMcpPath = path.join(pluginDir, ".mcp.json");
+    if (!(await pathExists(mcpPath)) && !(await pathExists(dotMcpPath))) {
+      addWarning(`${entry.name}: no mcp.json or .mcp.json file found (only needed when using MCP servers).`);
     }
   }
 
