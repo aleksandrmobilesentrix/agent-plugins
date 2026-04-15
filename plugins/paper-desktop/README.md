@@ -16,10 +16,6 @@ Paper connects your designs, agents, code, and data on a single canvas built on 
 
 Paper Desktop must be running with a file open for the MCP server to be available. Download it at [paper.design/downloads](https://paper.design/downloads).
 
-## Installation
-
-Install from the Anthropic Directory in Claude Desktop Settings → Extensions.
-
 ## Examples
 
 ### Example 1: Design from your codebase
