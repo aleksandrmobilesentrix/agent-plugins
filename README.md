@@ -25,3 +25,21 @@ Missing one? [Request it in an issue](https://github.com/paper-design/agent-plug
 ```sh
 /plugin install paper-desktop@paper
 ```
+
+## Codex
+
+**Add the custom marketplace**
+
+```sh
+codex plugin marketplace add paper-design/agent-plugins
+```
+
+**Install the plugin**
+
+```sh
+codex plugin install paper-desktop@paper
+```
+
+You can also browse and install plugins interactively by running `/plugins` inside Codex CLI after adding the marketplace.
+
+- [Read more about installing Codex plugins](https://developers.openai.com/codex/plugins)
