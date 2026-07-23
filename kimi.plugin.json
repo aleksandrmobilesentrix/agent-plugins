@@ -1,0 +1,11 @@
+{
+  "name": "paper-desktop",
+  "version": "0.1.0",
+  "description": "Skills for the Paper Desktop MCP server: code-to-design and design-to-code workflows",
+  "skills": ["./plugins/paper-desktop/skills/"],
+  "interface": {
+    "displayName": "Paper Desktop",
+    "shortDescription": "Official Paper skills (code-to-design, design-to-code)",
+    "developerName": "Paper (fork synced with upstream)"
+  }
+}
